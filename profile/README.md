@@ -8,6 +8,7 @@ Op dit moment hebben we al configs voor KPN.
 #### Voor de volgende routers:  
 - pfSense  
 - Mikrotik
+- OPNsense
 
 Het is de bedoeling dat de lijst met routers alleen maar groter word.  
 Op dit moment word er gewerkt aan configuratie info voor **T-mobile**.  
