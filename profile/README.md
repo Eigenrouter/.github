@@ -10,5 +10,13 @@ Op dit moment hebben we al configs voor KPN.
 - Mikrotik
 - OPNsense
 
+#### Configs beschikbaar voor de volgende providers:
+
+- KPN
+- T-Mobile
+- Solcon
+- Ziggo
+- Online  
+
 Het is de bedoeling dat de lijst met routers alleen maar groter word.  
 Op dit moment word er gewerkt aan configuratie info voor **T-mobile**.  
