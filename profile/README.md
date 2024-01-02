@@ -9,6 +9,7 @@ Op dit moment hebben we al configs voor KPN.
 - pfSense  
 - Mikrotik
 - OPNsense
+- Draytek
 
 #### Configs beschikbaar voor de volgende providers:
 
